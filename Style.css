@@ -1,0 +1,143 @@
+.bg4everything{
+    background-color: rgb(110, 104, 104);
+}
+
+.firstbox{
+    background-color: white;
+    color: red;
+    height: 100px;
+    width: 370px;
+    border: red solid 7px;
+    border-radius: 20px;
+    font-weight: bolder;
+    font-style: italic;
+    text-align: center;
+    text-shadow: 2px 2px black;
+    margin: auto;
+    box-shadow: 5px 5px #712B75;
+}
+
+.border{
+    border: 10px groove rgb(6, 128, 12);
+    margin-top: 20px;
+}
+.dabba{
+   margin: 10px;
+}
+
+.one4{
+    display: inline-block;
+    position: relative;
+    background-color: white;
+    height: 240px;
+    width: 220px;
+    border: solid red 7px;
+    border-radius: 20px;
+    font-style: italic;
+    text-align: center;
+    text-shadow: 1px 1px rgb(39, 19, 22);
+    box-shadow: 5px 5px #712B75;
+}
+
+.one41{
+    position: relative;
+    margin-right: 80px;
+    float: right;
+    background-color: white;
+    height: 240px;
+    width: 220px;
+    border: solid red 7px;
+    border-radius: 20px;
+    font-style: italic;
+    text-align: center;
+    text-shadow: 1px 1px rgb(39, 19, 22);
+    box-shadow: 5px 5px #712B75;
+    
+}
+
+.dabba1{
+    margin: 10px;
+ }
+
+.one42{
+    display: inline-block;
+    position: relative;
+    background-color: white;
+    height: 240px;
+    width: 220px;
+    border: solid red 7px;
+    border-radius: 20px;
+    font-style: italic;
+    text-align: center;
+    text-shadow: 1px 1px rgb(39, 19, 22);
+    box-shadow: 5px 5px #712B75;
+}
+
+.one43{
+    position: relative;
+    margin-right: 80px;
+    float: right;
+    background-color: white;
+    height: 240px;
+    width: 220px;
+    border: solid red 7px;
+    border-radius: 20px;
+    font-style: italic;
+    text-align: center;
+    text-shadow: 1px 1px rgb(39, 19, 22);
+    box-shadow: 5px 5px #712B75;
+    
+}
+.submit{
+    background-color: red;
+    border-radius: 20px;
+}
+
+.fixed{
+  position: fixed;
+  background-color: #06FF00;
+  color: red;
+  font-style: italic;
+  left: 320px;
+  bottom: 30px;
+  width: 640px;
+  height: 80px;
+  border: 7px solid red;
+  border-radius: 20px;
+  text-align: center;
+  box-shadow: 5px 5px #712B75;
+}
+
+.border2{
+    background-color: green;
+    border: groove 10px purple;
+    width: 65%;
+    margin: auto;
+    margin-top: 30px;
+}
+.welcome{
+    text-align: center;
+    font-weight: bold;
+}
+.sticky1{
+    display: inline-block;
+    position: relative;
+    background-color: yellow;
+    font-style: italic;
+    height: 220px;
+    width: 410px;
+    text-align: center;
+    padding: 10px;
+}
+.others{
+    position: relative;
+    background-color: yellow;
+    font-style: italic;
+    text-align: center;
+    padding: 7px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+input{
+    text-align: center;
+}
